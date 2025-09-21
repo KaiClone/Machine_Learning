@@ -1,0 +1,4 @@
+Model,Recall,Precision,Specificity,F1_Score,Clinical_Best_Recall,Clinical_Best_Precision,Clinical_Best_ROC_AUC,Clinical_Best_F1,Clinical_Recommendation
+Logistic Regression,0.9524,0.9524,0.9722,0.9524,,,✅ Best ROC-AUC,,
+Random Forest,0.9286,1.0,1.0,0.963,,✅ Best Precision,,,
+XGBoost,0.9762,1.0,1.0,0.988,✅ Best Sensitivity,,,✅ Best F1-Score,🏥 RECOMMENDED (Best Recall)

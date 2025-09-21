@@ -1,0 +1,4 @@
+Model,Best_Youden_Threshold,Best_F1_Threshold,Best_F2_Threshold,Youden_Score,Max_F1_Score,Max_F2_Score
+Logistic Regression,0.256,0.557,0.256,0.9583,0.9756,0.9859
+Random Forest,0.472,0.472,0.133,0.9286,0.963,0.9677
+XGBoost,0.36,0.36,0.36,0.9762,0.988,0.9809

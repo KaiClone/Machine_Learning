@@ -1,0 +1,6 @@
+Logistic Regression,Random Forest,XGBoost
+area_worst,concave points_mean,radius_worst
+radius_worst,perimeter_worst,perimeter_worst
+perimeter_mean,area_worst,concave points_worst
+concave points_mean,concave points_worst,area_worst
+radius_mean,radius_worst,concave points_mean

@@ -1,0 +1,6 @@
+Feature,Coefficient,Effect
+area_worst,5.171003870299245,Risk ↑
+radius_worst,3.1267968041483694,Risk ↑
+concave points_mean,2.547957547291813,Risk ↑
+radius_mean,-2.0364716547888513,Protective ↓
+perimeter_mean,-2.7362850295423313,Protective ↓
